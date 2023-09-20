@@ -1,0 +1,17 @@
+https://tailwindcss.com/docs/installation
+	- npm install -D tailwindcss					// https://tailwindcss.com/docs/configuration
+	- npm install react-icons --save				// https://react-icons.github.io/react-icons/icons?name=ai
+	- npm i @heroicons/react
+	- npm install @splidejs/react-splide			==> slick
+	- [vistual studio code] tailwind 플러그인 설치
+
+
+
+////////////////////////////// GIT //////////////////////////////
+토큰 확인
+	- settings -> developer settings
+	- https://github.com/settings/tokens
+
+visual studio 
+	- f1 -> gitclode -> 동의 -> 프로젝트 선택
+	- 터미널 중 git bash -> git clone [git url]
